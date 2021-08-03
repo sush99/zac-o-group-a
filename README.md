@@ -13,6 +13,6 @@ Features:<br> 1. User login<br>
 Technologies: Java, Spring Boot, MySQL, Hibernate, Thymeleaf templates, Google API
 
 
-What we'll have to learn:
+What we'll have to learn: We will need to develop a rating system and learn how to make API calls for the google maps location data.
 
 Project tracker: https://trello.com/b/tUy1OLVB/zac-o-group-a
