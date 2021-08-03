@@ -6,7 +6,8 @@ For our LiftOff project we decided to create an outdoors activity log. Users wil
 
 Features:
 
-Technologies:
+Technologies: Java, Spring Boot, MySQL, Hibernate, Thymeleaf templates
+
 
 What we'll have to learn:
 
