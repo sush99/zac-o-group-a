@@ -7,7 +7,7 @@ For our LiftOff project we decided to create an outdoors activity log. Users wil
 Features:<br> 1. User login<br>
           2. Users can create, read, edit, and delete events<br>
           3. Users search<br>
-          4. Automatically tags location data for posts<br>
+          4. Automatically tags location data for events<br>
           5. Rate locations<br>
 
 Technologies: Java, Spring Boot, MySQL, Hibernate, Thymeleaf templates, Google API
