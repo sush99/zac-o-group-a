@@ -4,7 +4,7 @@
 
 For our LiftOff project we decided to create an outdoors activity event log. Users will be able to create and log into accounts, create, view, edit, rate, and delete events. Event details could include location, descrition, outdoor event type(e.g. fishing, hiking, camping, etc.), and date/time, etc.
 
-This project could have applications for local, state, and federal parks departments, as well as retailers, that would give patrons a way of sharing their experiences and providing data. Location data, ratings, and description information could prompt park officials to potential problems at a location. Popular locations with "good" ratings, and description data(i.e. keywords) could be beneficial for marketing opportunities.
+This project could have applications for local, state, and federal parks departments, as well as retailers, that would give users a way of sharing their experiences and providing data. Location data, ratings, and description information could prompt park officials to potential problems at a location. Popular locations with "good" ratings, and description data(i.e. keywords) could be beneficial for marketing opportunities.
 
 ## Features
 1. User login: Users will be able to create and log into accounts. When creating accounts we want to use a ReCaptcha to authenticate that the user is an actual person and not a "robot." To do anything other than read previously posted events, users will need to be logged in.
