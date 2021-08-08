@@ -1,18 +1,29 @@
-# Outdoor Event Log
+# Outdoor Event Log Project Outline
 
+## Overview<br>
 
-For our LiftOff project we decided to create an outdoors activity log. Users will be able to create accounts, add outdoor events by category, upload pictures to the event, and add a tag using GoogleMaps.
+For our LiftOff project we decided to create an outdoors activity event log. Users will be able to create and log into accounts, create, view, edit, rate, and delete events. Event details could include location, descrition, outdoor event type(e.g. fishing, hiking, camping, etc.), and date/time, etc. Users will also be able to 
 
+## Features 
+1. User login: Users will be able to create and log into accounts. When creating accounts we want to use a ReCaptcha to autehnticate the user is an actual person and not a "robot." To do anything other than read previsouly posted events, users will need to be logged in.
+2. Users can create, read, edit, and delete events: Once logged in, users can create, edit, and delete events associated to their account. Mixture required(event type, date/time) and optional fields (description, location, rating).
+3. Users search: Users will be able to search for previously posted events based on different filters matching user input. Filters could include: all, description, event type. 
+4. Tag location: Add location data for events and displays events a GoogleMap with markers.
+5. Rate locations: Impletment a rating system(e.g. 1-5 star system) where users can rate the quality of the event they are adding to the log.
 
-Features:<br> 1. User login<br>
-          2. Users can create, read, edit, and delete events<br>
-          3. Users search<br>
-          4. Automatically tags location data for events<br>
-          5. Rate locations, with an optional description.<br>
+## Technologies 
+- Java 
+- Spring Boot 
+- MySQL 
+- Hibernate 
+- Thymeleaf templates 
+- GoogleMaps API
+- Bootstrap
+- ReCaptcha
+- JavaScript
 
-Technologies: Java, Spring Boot, MySQL, Hibernate, Thymeleaf templates, Google API
+## What we'll have to learn
+For location data we will have to learn how to make API calls to GoogleMaps. We will also need to learn how to use the ReCaptcha API for user authentication.
 
-
-What we'll have to learn: We will need to develop a rating system and learn how to make API calls for the google maps location data.
-
-Project tracker: https://trello.com/b/tUy1OLVB/zac-o-group-a
+## Project tracker
+https://trello.com/b/tUy1OLVB/zac-o-group-a
