@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc23c2c4-2a0d-4947-af24-69a77920b441" name="Default Changelist" comment="Made a &quot;Hello World&quot; index in the main branch.">
-      <change afterPath="$PROJECT_DIR$/outdoor-events/src/main/java/org/launchcode/outdoorevents/models/Event.java" afterDir="false" />
-    </list>
+    <list default="true" id="bc23c2c4-2a0d-4947-af24-69a77920b441" name="Default Changelist" comment="Made a &quot;Hello World&quot; index in the main branch." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
