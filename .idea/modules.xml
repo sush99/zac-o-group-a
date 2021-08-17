@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/outdoorEvents.iml" filepath="$PROJECT_DIR$/.idea/modules/outdoorEvents.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/outdoorEvents.main.iml" filepath="$PROJECT_DIR$/.idea/modules/outdoorEvents.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/outdoorEvents.test.iml" filepath="$PROJECT_DIR$/.idea/modules/outdoorEvents.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/untitled1.iml" filepath="$PROJECT_DIR$/.idea/modules/untitled1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/untitled1.main.iml" filepath="$PROJECT_DIR$/.idea/modules/untitled1.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/untitled1.test.iml" filepath="$PROJECT_DIR$/.idea/modules/untitled1.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Outdoor-Events-App.iml" filepath="$PROJECT_DIR$/.idea/Outdoor-Events-App.iml" />
     </modules>
   </component>
 </project>
