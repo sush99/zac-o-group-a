@@ -1,2 +1,4 @@
-package org.launchcode.outdoorevents.models;public class Event {
+package org.launchcode.outdoorevents.models;
+
+public class Event {
 }
