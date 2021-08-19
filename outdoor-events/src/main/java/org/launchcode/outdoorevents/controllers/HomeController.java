@@ -1,2 +1,4 @@
-package org.launchcode.outdoorevents.controllers;public class HomeController {
+package org.launchcode.outdoorevents.controllers;
+
+public class HomeController {
 }
