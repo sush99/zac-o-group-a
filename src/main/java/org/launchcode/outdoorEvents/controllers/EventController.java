@@ -1,4 +1,4 @@
-package org.lauchcode.outdoorEvents.controllers;
+package org.launchcode.outdoorEvents.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

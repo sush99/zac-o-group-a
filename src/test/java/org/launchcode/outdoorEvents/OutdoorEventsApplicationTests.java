@@ -1,4 +1,4 @@
-package org.lauchcode.outdoorEvents;
+package org.launchcode.outdoorEvents;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
