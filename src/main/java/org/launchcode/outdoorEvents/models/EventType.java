@@ -1,8 +1,6 @@
 package org.launchcode.outdoorEvents.models;
 
-/**
- * Created by Chris Bay
- */
+
 public enum EventType {
 
     CONFERENCE("Conference"),

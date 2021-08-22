@@ -23,7 +23,7 @@ public class EventCategoryController {
     @GetMapping
     public String displayAllCategories(Model model) {
         model.addAttribute("title", "All Categories");
-        //model.addAttribute("categories", eventCategoryRepository.findAll());
+        model.addAttribute("categories", eventCategoryRepository.findAll());
         return "eventCategories/index";
     }
 
@@ -44,7 +44,7 @@ public class EventCategoryController {
             return "eventCategories/create";
         }
 
-        //eventCategoryRepository.save(eventCategory);
+        eventCategoryRepository.save(eventCategory);
         return "redirect:";
     }
 
